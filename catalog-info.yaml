@@ -13,8 +13,6 @@ spec:
   definition:
     $text: ./spec1.oas.yaml
 
-
-
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
